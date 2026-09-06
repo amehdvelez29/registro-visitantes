@@ -1,5 +1,14 @@
 # Registro de visitantes
 
+Registro de visitantes
+Integrantes
+Amehd Antonio Velez Lopez
+Jhon Angel Arroyo Baldovino
+Carlos andres Correa Jimenez
+
+Asignatura
+Programación III – Universidad de Córdoba
+
 API REST desarrollada con Java 21 y Spring Boot para estudiar el alcance de los miembros de instancia, los miembros `static` y los beans singleton de Spring.
 
 ## Tecnologías

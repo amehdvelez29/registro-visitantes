@@ -1,7 +1,7 @@
 # Registro de visitantes
 
 Registro de visitantes
-Integrantes
+Integrantes:
 Amehd Antonio Velez Lopez
 Jhon Angel Arroyo Baldovino
 Carlos andres Correa Jimenez
